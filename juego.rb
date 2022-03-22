@@ -31,5 +31,6 @@ else
     puts "computador juega tijera"
     puts "perdiste"
 end
+else
 puts "argumento invalido"
 end
