@@ -7,15 +7,16 @@ pc = rand(0..2)
 usuario = ARGV[0].downcase
 if usuario == "piedra"
 if pc == 0
-    puts "comptador juega piedra"
+    puts "computador juega piedra"
     puts "empataste"
 elsif pc == 1
    puts "computador juega papel"
-   puts "perdists"
+   puts "perdiste"
 else
-    pc== 2
+    pc == 2
     puts "computador juega tijera"
     puts "ganaste"
+end
 end
 if usuario == "papel"
 if pc == 0
