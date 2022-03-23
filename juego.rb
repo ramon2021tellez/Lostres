@@ -17,7 +17,6 @@ else
     puts "computador juega tijera"
     puts "ganaste"
 end
-end
 if usuario == "papel"
 if pc == 0
     puts "comptador juega piedra"
