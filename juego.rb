@@ -27,7 +27,6 @@ elseif pc == 1
 elseif pc == 2
     puts "computador juega tijera"
     puts "perdiste"
-end
 else
 puts "argumento invalido"
 end
