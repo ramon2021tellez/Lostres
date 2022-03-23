@@ -4,10 +4,10 @@ num3 = ARGV[2]
 
 if num1 > num2
     puts "numero uno es mayor"
-elsif num1> num3
-    puts "numero uno es mayor"
+elsif num2> num3
+    puts "numero dos es mayor"
     
 else
     puts "numero tres es mayor"
 end
-    puts "numero dos es mayor"
+    puts "numero uno es mayor"
