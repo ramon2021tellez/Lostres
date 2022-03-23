@@ -9,8 +9,7 @@ if usuario == "piedra"
 if pc == 0
     puts "comptador juega piedra"
     puts "empataste"
-elseif
-   pc == 1
+elseif pc == 1
    puts "computador juega papel"
    puts "perdists"
 else
@@ -22,12 +21,10 @@ if usuario == "papel"
 if pc == 0
     puts "comptador juega piedra"
     puts "ganaste"
-elseif
-   pc == 1
+elseif pc == 1
    puts "computador juega papel"
    puts "empataste"
-elseif
-    pc == 2
+elseif pc == 2
     puts "computador juega tijera"
     puts "perdiste"
 end
